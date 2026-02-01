@@ -16,6 +16,7 @@ Credit: [chris1111](https://github.com/chris1111), [pngquant](https://github.com
 
 ## Download Release ➤ [Compress Images](https://github.com/chris1111/Compress-Images/releases/tag/V1)
 
+## Droping an images ⬇︎
 <img src="Source/Screenshot.png" alt="Icons Project" style="width:75%;">
 
 ## Output ⬇︎
