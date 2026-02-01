@@ -4,7 +4,7 @@
 
 <img src="Source/compress-macOS-Default-1024x1024@1x.png" alt="Icons Project" style="width:30%;">
 
-Credit: [pngquant](https://github.com/kornelski/pngquant), [platypus](https://github.com/sveinbjornt/Platypus)
+Credit: [chris1111](https://github.com/chris1111), [pngquant](https://github.com/kornelski/pngquant), [platypus](https://github.com/sveinbjornt/Platypus)
 
 ### The conversion reduces file sizes significantly (often as much as 70%) and preserves full alpha transparency. Generated images are compatible with all web browsers and operating systems.
 
