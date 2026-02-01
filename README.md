@@ -16,3 +16,6 @@ Credit: [pngquant](https://github.com/kornelski/pngquant), [platypus](https://gi
 ## Download Release ➤ [Compress Images](https://github.com/chris1111/Compress-Images/releases/tag/V1)
 
 <img src="Source/Screenshot.png" alt="Icons Project" style="width:75%;">
+
+## Output ⬇︎
+<img src="Source/Screenshot-Output.png" alt="Icons Project" style="width:75%;">
