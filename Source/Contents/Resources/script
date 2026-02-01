@@ -1,4 +1,5 @@
-#!/bin/sh# Copyright (c) 2026 chris1111 All rights reserved.
+#!/bin/sh
+# Copyright (c) 2026 chris1111 All rights reserved.
 # Credit: pngquant: command-line utility for lossy compression of PNG images
 # Permission to use, copy, modify, and/or distribute this software for any
 # purpose with or without fee is hereby granted, provided that the above
