@@ -34,6 +34,13 @@ mkdir -p "${TempDir}"
 Sleep 1
 
 cp -R "$@" "${TempDir}"
+
+osascript <<EOD
+  tell application "Compress Images"
+      activate
+  end tell
+EOD
+
 Sleep 1
 ./pngquant --verbose --quality=65-80 --ext=.png --force "$TempDir"/*.png
 
@@ -41,6 +48,12 @@ mkdir -p $Output
 
 for file in "${TempDir}"/*; 
 do
+
+osascript <<EOD
+  tell application "Compress Images"
+      activate
+  end tell
+EOD
 
 Sleep 1
 cp -rp $TempDir/*.png $Output
