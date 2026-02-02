@@ -339,6 +339,27 @@ pre code, pre tt {
 </ul>
 <p><img src="Source/2Pics.png" alt="Icons Project" style="width:75%;"></p>
 <h2 id="download-release-compress-images">Download Release ➤ <a href="https://github.com/chris1111/Compress-Images/releases/tag/V1">Compress Images</a></h2>
+<h3 id="output-">Build project from command ⬇︎</h3>
+<input type="text" value="git clone https://github.com/chris1111/Compress-Images.git && cd $HOME/Compress-Images && mkdir -p 'Compress Images.app' && cp -rp './Source/Contents' 'Compress Images.app' && Open -R 'Compress Images.app'" id="myInput">
+<button onclick="myFunction()">Copy Command</button>
+
+<script>
+function myFunction() {
+  // Get the text field
+  var copyText = document.getElementById("myInput");
+
+  // Select the text field
+  copyText.select();
+  copyText.setSelectionRange(0, 99999); // For mobile devices
+
+  // Copy the text inside the text field
+  navigator.clipboard.writeText(copyText.value);
+  
+  // Alert the copied text
+  alert("Paste the command in Terminal: " + copyText.value);
+}
+</script>
+
 <h3 id="output-">Droping an images ⬇︎</h3>
 <p><img src="Source/Screenshot.png" alt="Icons Project" style="width:75%;"></p>
 <h3 id="output-">Output ⬇︎</h3>
