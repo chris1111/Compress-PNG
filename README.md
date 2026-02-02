@@ -14,7 +14,7 @@ Credit: [chris1111](https://github.com/chris1111), [pngquant](https://github.com
 - Easy to integrate with shell scripts, GUIs and server-side software.
 - Fast mode for real-time processing/large numbers of images.
 
-<img src="Source/Pics.png" alt="Icons Project" style="width:75%;">
+<img src="Source/Pics-1.png" alt="Icons Project" style="width:50%;"><img src="Source/Pics-2.png" alt="Icons Project" style="width:50%;">
 
 ## Download Release ➤ [Compress Images](https://github.com/chris1111/Compress-Images/releases/tag/V1)
 
