@@ -1,6 +1,6 @@
-# Compress Images
-[![License: MIT](https://github.com/chris1111/Compress-Images/blob/main/Source/MIT.svg)](https://github.com/chris1111/Compress-Images/blob/main/LICENSE)
-### Compress Images is a free Open source macOS Applications to compress PNG images.
+# Compress PNG
+[![License: MIT](https://github.com/chris1111/Compress-PNG/blob/main/Source/MIT.svg)](https://github.com/chris1111/Compress-PNG/blob/main/LICENSE)
+### Compress PNG is a free Open source macOS Applications to compress PNG images.
 
 <img src="Source/compress-macOS-Default-1024x1024@1x.png" alt="Icons Project" style="width:30%;">
 
@@ -16,11 +16,11 @@ Credit: [chris1111](https://github.com/chris1111), [pngquant](https://github.com
 
 <img src="Source/Pics-1.png" alt="Icons Project" style="width:40%;"><img src="Source/Pics-2.png" alt="Icons Project" style="width:40%;">
 
-## Download Release ➤ [Compress Images](https://github.com/chris1111/Compress-Images/releases/tag/V1)
+## Download Release ➤ [Compress PNG](https://github.com/chris1111/Compress-PNG/releases/tag/V1)
 
 ### Build App from command in macOS
 ```
-git clone https://github.com/chris1111/Compress-Images.git && cd $HOME/Compress-Images && mkdir -p ./"Compress Images.app" && cp -rp ./Source/Contents ./"Compress Images.app" && Open -R ./"Compress Images.app"
+git clone https://github.com/chris1111/Compress-PNG.git && cd $HOME/Compress-PNG && mkdir -p ./"Compress PNG.app" && cp -rp ./Source/Contents ./"Compress PNG.app" && Open -R ./"Compress PNG.app"
 ```
 
 <img src="Source/Screenshot.png" alt="Icons Project" style="width:50%;"><img src="Source/Screenshot-Output.png" alt="Icons Project" style="width:50%;">

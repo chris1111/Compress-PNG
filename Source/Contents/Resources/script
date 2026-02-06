@@ -12,7 +12,7 @@
 # ACTION OF CONTRACT, NEGLIGENCE OR OTHER TORTIOUS ACTION, ARISING OUT OF
 # OR IN CONNECTION WITH THE USE OR PERFORMANCE OF THIS SOFTWARE.
 # Vars
-Output="$HOME/Desktop/Compress_Images"
+Output="$HOME/Desktop/Compress_PNG"
 TempDir="/Private/tmp/Compress"
 
 echo ""
@@ -36,7 +36,7 @@ Sleep 1
 cp -R "$@" "${TempDir}"
 
 osascript <<EOD
-  tell application "Compress Images"
+  tell application "Compress PNG"
       activate
   end tell
 EOD
@@ -50,7 +50,7 @@ for file in "${TempDir}"/*;
 do
 
 osascript <<EOD
-  tell application "Compress Images"
+  tell application "Compress PNG"
       activate
   end tell
 EOD
