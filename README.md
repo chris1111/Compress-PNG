@@ -1,5 +1,7 @@
 # Compress PNG
 [![License: MIT](https://github.com/chris1111/Compress-PNG/blob/main/Source/MIT.svg)](https://github.com/chris1111/Compress-PNG/blob/main/LICENSE)
+
+<img src="https://hitscounter.dev/api/hit?url=https://github.com/chris1111&label=VISITORS&icon=gift&color=%23198754&message=&style=for-the-badge&tz=US%2FEastern">
 ### Compress PNG is a free Open source macOS Applications to compress PNG images.
 
 <img src="Source/compress-macOS-Default-1024x1024@1x.png" alt="Icons Project" style="width:30%;">
